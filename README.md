@@ -1,6 +1,7 @@
 # IP
 Repositório dedicado a disciplina de Introdução a Programação do Curso de Ciência da Computação (UFG)
 
+Repository dedicated to the Class Introduction to Programming - Computer Science Course (UFG)
 
 # Observações:
 
